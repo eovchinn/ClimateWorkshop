@@ -46,5 +46,5 @@ Most of the content is globally applicable. However, some of the slides are Euro
 
 * Climate Interactive for providing materials for the World Climate Game
 * Theodore Alexandrov for organizing the workshop at EMBL
-* Alex Chatrchyan, Micha Bleher, Suzie Lavoie, Ecem Uludağ for feedback and comments
+* Micha Bleher, Alex Chatrchyan, Suzie Lavoie, Ecem Uludağ for feedback and comments
 * collegues from EMBL, Scientists4Future, Uni Heidelberg for promoting the workshop
