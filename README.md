@@ -40,11 +40,11 @@ Most of the content is globally applicable. However, some of the slides are Euro
 
 * Jan-Marcus Nasse - Physical basics of climate change
 * Katja Ovchinnikova (www.ovchinnikova.me, katja@ovchinnikova.me, [@Katja_HB4](https://twitter.com/katja_hb4)) - all other slides
-* Alberto Bailoni - slides design, content feedback
+* Alberto Bailoni - slides design, content feedback, filming
 
 # Our hearty thanks to
 
 * Climate Interactive for providing materials for the World Climate Game
-* Theodore Alexandrov for organizing the workshop at EMBL
+* Theodore Alexandrov for organizing the workshop at EMBL and filming
 * Micha Bleher, Alex Chatrchyan, Suzie Lavoie, Ecem Uludağ for feedback and comments
 * collegues from EMBL, Scientists4Future, Uni Heidelberg for promoting the workshop
