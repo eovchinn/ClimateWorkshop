@@ -36,7 +36,7 @@ Most of the content is globally applicable. However, some of the slides are Euro
 * Europe specific slides: 95, 118
 * Germany specific slides: 94, 100, 102, 120, 126
 
-# The materials are created by
+# The materials were created by
 
 * Jan-Marcus Nasse - Physical basics of climate change
 * Katja Ovchinnikova (www.ovchinnikova.me, katja@ovchinnikova.me, [@Katja_HB4](https://twitter.com/katja_hb4)) - all other slides
