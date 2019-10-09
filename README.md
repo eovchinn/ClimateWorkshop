@@ -39,7 +39,7 @@ Most of the content is globally applicable. However, some of the slides are Euro
 # The materials were created by
 
 * Jan-Marcus Nasse - Physical basics of climate change
-* Katja Ovchinnikova (www.ovchinnikova.me, katja@ovchinnikova.me, [@Katja_HB4](https://twitter.com/katja_hb4)) - all other slides
+* Katja Ovchinnikova (www.ovchinnikova.me, katja@ovchinnikova.me, [@Katja_HB4](https://twitter.com/katja_hb4)) - all other slides, video editing
 * Alberto Bailoni - slides design, content feedback, filming
 
 # Our hearty thanks to
