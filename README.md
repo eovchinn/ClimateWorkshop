@@ -4,8 +4,8 @@ In this repository, we store the materials for the Climate Change and Action Wor
 
 # Online resources
 
-* Slides:
-* Video:
+* Slides: 
+* Video: https://youtu.be/zWyO_JOkcLM
 * World Climate Game developed by Climate Interactive: https://www.climateinteractive.org/programs/world-climate/
 
 # Workshop time
