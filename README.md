@@ -14,19 +14,19 @@ Between 2.5 and 3 hours depending on how much time is spent on the World Climate
 
 # Content
 
-* Physical basics of climate change (slides 2 - 63)
-* Land use change (slides 64 - 74)
-* Impact of climate change on humans (slides 75 - 82)
-* Climate justice (slides 83 - 87)
-* Proposed solutions (slides 88 - 89)
-* Paris Agreement 2015 (slides 90 - 96)
-* Fridays4Future (slides 97 - 100)
+* Physical basics of climate change (slides 2 - 63, [video](https://www.youtube.com/watch?v=zWyO_JOkcLM))
+* Land use change (slides 64 - 74, [video](https://www.youtube.com/watch?v=zWyO_JOkcLM&t=48m56s))
+* Impact of climate change on humans (slides 75 - 82, [video](https://www.youtube.com/watch?v=zWyO_JOkcLM&t=56m20s))
+* Climate justice (slides 83 - 87, [video](https://www.youtube.com/watch?v=zWyO_JOkcLM&t=58m56s))
+* Proposed solutions (slides 88 - 89, [video](https://www.youtube.com/watch?v=zWyO_JOkcLM&t=60m16s))
+* Paris Agreement 2015 (slides 90 - 96, [video](https://www.youtube.com/watch?v=zWyO_JOkcLM&t=61m29s))
+* Fridays4Future (slides 97 - 100, [video](https://www.youtube.com/watch?v=zWyO_JOkcLM&t=65m23s))
 
 WORLD CLIMATE GAME
 
-* How to reduce individual carbon footprint (slides 101 - 127)
+* How to reduce individual carbon footprint (slides 101 - 127, [video](https://www.youtube.com/watch?v=zWyO_JOkcLM&t=67m38s))
 * Upcoming events (slide 128)
-* Concluding remarks (slide 129)
+* Concluding remarks (slide 129, [video](https://www.youtube.com/watch?v=zWyO_JOkcLM&t=84m12s))
 * Thank you (slide 130)
 
 # Notes
