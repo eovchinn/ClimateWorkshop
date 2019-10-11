@@ -31,10 +31,12 @@ WORLD CLIMATE GAME
 
 # Notes
 
-Most of the content is globally applicable. However, some of the slides are Europe or Germany specific. When using in other contries, please replace these slides with local information or skip them.
+1. Most of the content is globally applicable. However, some of the slides are Europe or Germany specific. When using in other contries, please replace these slides with local information or skip them.
 
 * Europe specific slides: 95, 118
 * Germany specific slides: 94, 100, 102, 120, 126
+
+2. Our lecture does not cover an important aspect: economical consequences of climate change. This is an area where we have no expertise and would be happy to team up with a professional.
 
 # The materials were created by
 
