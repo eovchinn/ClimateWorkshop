@@ -6,7 +6,8 @@ In this repository, we store the materials for the Climate Change and Action Wor
 
 * Slides: https://docs.google.com/presentation/d/1z7SwIeP5FWJ7k_pBcgfb0-n39m-uHKug2Kb2CFbGLMs/edit?usp=sharing
 * Video: https://youtu.be/zWyO_JOkcLM
-* World Climate Game developed by Climate Interactive: https://www.climateinteractive.org/programs/world-climate/
+* World Climate Game developed by Climate Interactive: https://www.climateinteractive.org/programs/world-climate
+* Blog post: https://katja-hb.home.blog/climate-science-and-action-workshop
 
 # Workshop time
 
@@ -31,16 +32,18 @@ WORLD CLIMATE GAME
 
 # Notes
 
-Most of the content is globally applicable. However, some of the slides are Europe or Germany specific. When using in other contries, please replace these slides with local information or skip them.
+* Most of the content is globally applicable. However, some of the slides are Europe or Germany specific. When using in other contries, please replace these slides with local information or skip them.
 
-* Europe specific slides: 95, 118
-* Germany specific slides: 94, 100, 102, 120, 126
+  * Europe specific slides: 95, 118
+  * Germany specific slides: 94, 100, 102, 120, 126
+
+* Our lecture does not cover an important aspect: economical consequences of climate change. This is an area where we have no expertise and would be happy to team up with a professional to extend the materials.
 
 # The materials were created by
 
-* Jan-Marcus Nasse - physical basics of climate change
+* Jan-Marcus Nasse (jan.nasse@alumni.uni-heidelberg.de) - physical basics of climate change
 * Katja Ovchinnikova (www.ovchinnikova.me, katja@ovchinnikova.me, [@Katja_HB4](https://twitter.com/katja_hb4)) - all other slides, video editing
-* Alberto Bailoni - slides design, content feedback, filming
+* Alberto Bailoni (https://github.com/abailoni) - slides design, content feedback, filming
 
 # Our hearty thanks to
 
