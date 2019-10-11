@@ -40,7 +40,7 @@ Most of the content is globally applicable. However, some of the slides are Euro
 
 * Jan-Marcus Nasse (jan.nasse@alumni.uni-heidelberg.de) - physical basics of climate change
 * Katja Ovchinnikova (www.ovchinnikova.me, katja@ovchinnikova.me, [@Katja_HB4](https://twitter.com/katja_hb4)) - all other slides, video editing
-* Alberto Bailoni - slides design, content feedback, filming
+* Alberto Bailoni (https://github.com/abailoni) - slides design, content feedback, filming
 
 # Our hearty thanks to
 
