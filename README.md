@@ -25,7 +25,7 @@ Between 2.5 and 3 hours depending on how much time is spent on the World Climate
 * Paris Agreement 2015 ([slides 90 - 96](https://docs.google.com/presentation/d/1z7SwIeP5FWJ7k_pBcgfb0-n39m-uHKug2Kb2CFbGLMs/edit#slide=id.g41a731f019_17_679), [video](https://www.youtube.com/watch?v=zWyO_JOkcLM&t=61m29s))
 * Fridays4Future ([slides 97 - 100](https://docs.google.com/presentation/d/1z7SwIeP5FWJ7k_pBcgfb0-n39m-uHKug2Kb2CFbGLMs/edit#slide=id.g41a731f019_17_722), [video](https://www.youtube.com/watch?v=zWyO_JOkcLM&t=65m23s))
 
-WORLD CLIMATE GAME
+[WORLD CLIMATE GAME](https://www.climateinteractive.org/programs/world-climate)
 
 * How to reduce individual carbon footprint ([slides 101 - 127](https://docs.google.com/presentation/d/1z7SwIeP5FWJ7k_pBcgfb0-n39m-uHKug2Kb2CFbGLMs/edit#slide=id.g41a731f019_17_742), [video](https://www.youtube.com/watch?v=zWyO_JOkcLM&t=67m38s))
 * Upcoming events (slide 128)
