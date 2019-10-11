@@ -36,7 +36,7 @@ WORLD CLIMATE GAME
   * Europe specific slides: 95, 118
   * Germany specific slides: 94, 100, 102, 120, 126
 
-* Our lecture does not cover an important aspect: economical consequences of climate change. This is an area where we have no expertise and would be happy to team up with a professional.
+* Our lecture does not cover an important aspect: economical consequences of climate change. This is an area where we have no expertise and would be happy to team up with a professional to extend the materials.
 
 # The materials were created by
 
