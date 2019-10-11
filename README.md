@@ -2,7 +2,7 @@
 
 In this repository, we store the materials for the Climate Change and Action Workshop. The materials are freely available for any kind of use.
 
-![](/imgs/Climate\ Change\ and\ Action\ Workshop\ -\ FINAL.png)
+
 
 # Online resources
 
