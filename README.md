@@ -6,7 +6,8 @@ In this repository, we store the materials for the Climate Change and Action Wor
 
 * Slides: https://docs.google.com/presentation/d/1z7SwIeP5FWJ7k_pBcgfb0-n39m-uHKug2Kb2CFbGLMs/edit?usp=sharing
 * Video: https://youtu.be/zWyO_JOkcLM
-* World Climate Game developed by Climate Interactive: https://www.climateinteractive.org/programs/world-climate/
+* World Climate Game developed by Climate Interactive: https://www.climateinteractive.org/programs/world-climate
+* Blog post: https://katja-hb.home.blog/climate-science-and-action-workshop
 
 # Workshop time
 
